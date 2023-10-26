@@ -1,0 +1,30 @@
+* {
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+}
+
+button {
+    background: transparent;
+    border: 1px solid white;
+    width: 120px;
+    align-self: center;
+}
+
+form {
+    padding: 40px;
+    border: 1px solid white;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+input {
+    border: 1px solid white;
+}
+
+ul li {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
